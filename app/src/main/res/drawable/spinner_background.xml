@@ -1,0 +1,10 @@
+<!-- res/drawable/spinner_background.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/black_border" />
+    <item
+        android:drawable="@drawable/baseline_arrow_drop_down_24"
+        android:width="24dp"
+        android:height="24dp"
+        android:gravity="end|center_vertical"
+        android:right="16dp" />
+</layer-list>

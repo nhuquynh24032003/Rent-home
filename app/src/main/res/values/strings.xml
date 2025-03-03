@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rent Home</string>
+    <string name="textview">TextView</string>
+    <string-array name="furniture_array">
+        <item>Chưa có nội thất</item>
+        <item>Đầy đủ nội thất</item>
+        <item>Có một số nội thất</item>
+    </string-array>
+
+</resources>
